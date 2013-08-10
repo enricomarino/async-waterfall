@@ -1,0 +1,13 @@
+{
+  "name": "async-waterfall",
+  "repo": "enricomarino/async-waterfall",
+  "version": "0.0.1",
+  "description": "async waterfall",
+  "keywords": ["async", "waterfall"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
